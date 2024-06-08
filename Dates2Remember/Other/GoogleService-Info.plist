@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBpy3iyYTcf_jweIrqBiNwayF50dsxS0Cc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1035092522337</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Shamik.Dates2Remember</string>
+	<key>PROJECT_ID</key>
+	<string>dates2remember-d2r</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dates2remember-d2r.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1035092522337:ios:b6f06e875bb8d235c40120</string>
+</dict>
+</plist>
